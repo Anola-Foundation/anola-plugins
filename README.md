@@ -1,2 +1,2 @@
-# seaway-plugins
-Seaway. Plugin Components
+# anola-plugins
+Anola. Plugin Components
